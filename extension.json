@@ -1,0 +1,13 @@
+{
+  "name": "ENCOS CAN Decoder",
+  "apiVersion": "1.0.0",
+  "author": "Miles Punch & NUbots",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "ENCOS CAN Decoder": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
